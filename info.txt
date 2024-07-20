@@ -1,0 +1,35 @@
+----------MongoDB-----------
+username:vaishnavi_bookapi
+password:BookAPI
+
+Step1:create project
+Step 2: Netwrok Access
+Step 3: Database Access
+    1. Add new user
+
+
+
+-------MongoDB-----------
+Database -> Database is a collection of meaningful data 
+that is stored and organised according to some standard
+
+MongoDB-> MongoDB is an open source document Database and leading NoSql Database.
+
+document & NoSql
+data is stored in JSON format
+
+schemaless
+{
+    message:"hello"
+}
+
+NoSql - document collection (JSON format)
+        document doesn't require schemaless
+        more scalable
+        unstructured 
+        no sutable for large scale and security as compare yo MySQL
+
+Mongoose is a MongoDB object modeling tool designed to work in an 
+asynchronous environment. Mongoose supports Node.js and Deno (alpha).
+
+MySQL
